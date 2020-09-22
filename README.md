@@ -30,6 +30,6 @@
 
   ### 二、IDEA 如何调试 Mybatis 源码
 
-  ![image-20200922162451927](C:\Zyred\resource_code\MyBatis带中文注释源码\mybatis-3\assets\image-20200922162451927.png)
+  ![image-20200922162451927](assets\image-20200922162451927.png)
 
-  ![image-20200922162557143](C:\Zyred\resource_code\MyBatis带中文注释源码\mybatis-3\assets\image-20200922162557143.png)
+  ![image-20200922162557143](assets\image-20200922162557143.png)
