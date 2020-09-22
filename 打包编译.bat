@@ -1,0 +1,1 @@
+mvn install -DskipTests=true -Dmaven.test.skip=true -Dlicense.skip=true
